@@ -1,4 +1,4 @@
 # cti110
 CTI 110 Repository
-Reynold
+Reynolds
 9/18/2022
